@@ -1,11 +1,17 @@
-h1 {
+body {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: black;
 }
+
 /*
 ###########################
 #        COMPONENTS       #
 ###########################
 */
+.c-index-font {
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
 
 .c-arno-background {
   background-image: url('../assets/Screenshot_2.png');
