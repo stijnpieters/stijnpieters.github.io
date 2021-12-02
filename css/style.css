@@ -1,11 +1,26 @@
 body {
   display: inline;
   color: white;
-  background-image: url('assets/Screenshot_2.png');
   }
 h1 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+/*
+###########################
+#        COMPONENTS       #
+###########################
+*/
+
+.c-arno-background {
+  background-image: url('../assets/Screenshot_2.png');
+}
+
+/*
+###########################
+#        UTILITIES        #
+###########################
+*/
+
 .u-flex-center {
   display: flex;
   justify-content: center;
