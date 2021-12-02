@@ -1,0 +1,17 @@
+body {
+    overflow-y: hidden;
+  }
+  h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+  .flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+body{
+  display: inline;
+   color: white;
+   background-image: url('assets/Screenshot_2.png');
+}
